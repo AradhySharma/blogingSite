@@ -1,7 +1,3 @@
-# Californium
-
-Repository for backend cohort - Californium
-
 ## Blogging Site Mini Project Requirement
 
 ## Phase I
